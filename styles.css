@@ -31,9 +31,11 @@ main {
     color:navy;
 }
 .funParagraph{
+    color: green;
     text-shadow: 1px 1px;
 }
 #mainHeading{
+    color: red;
     text-shadow: 2px 2px rgb(151, 8, 120);
     font-variant: small-caps;
 }
